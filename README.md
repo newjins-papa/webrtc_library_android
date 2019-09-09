@@ -1,1 +1,1 @@
-# libjingle-android
+# libjingle_peerconnection_so-android
