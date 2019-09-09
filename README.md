@@ -1,4 +1,4 @@
-# libjingle_peerconnection_so-android
+# libjingle_peerconnection_so 추출하기(Android)
 
 WebRTC 를 안드로이드로 빌드 하는 방법에 대해서 알아 본다. 아래 과정을 순서대로 따라하면 된다.
 
